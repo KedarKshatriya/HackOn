@@ -16,7 +16,7 @@ Do try both the apps Web App and Android App both are fully functional 🤩.
 Some Technical terms introduced:
 
 -> Infection Variable (I.V):
-It is a custom developed algorithm which will decide if the person is in either of these three states:
+It is a custom developed algorithm which will decide if the person is in either of these three states:  
 Safe => Green Marker 🟢.
 Suspicious => Yellow Marker 🟡.
 Infected => Red Marker 🔴.
